@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">EXR2</string>
+    <string name="first_number">Primeiro Numero</string>
+    <string name="second_number">Segundo Numero</string>
+    <string name="somar">Somar</string>
+    <string name="subtrair">Subtrair</string>
+    <string name="multiplicar">Multiplicar</string>
+    <string name="dividir">Dividir</string>
+    <string name="resultado">Resultado</string>
 </resources>
